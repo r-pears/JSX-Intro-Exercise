@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.tweet {
+  border: 1px solid #6b9aff;
+  background-color: #6b9aff;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 20px;
+  color: #000026;
+}
